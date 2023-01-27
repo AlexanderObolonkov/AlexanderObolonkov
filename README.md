@@ -9,7 +9,7 @@
 
 ### Connect with me:
 [<img align="left" alt="AleksandObolonkov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img align="left" alt="AleksandObolonkov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][tg]
+[<img align="left" alt="AleksandObolonkov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][tg]
 
 [vk]: https://vk.com/obolonkovolegzandr
 [tg]: https://t.me/ITbolonkov
