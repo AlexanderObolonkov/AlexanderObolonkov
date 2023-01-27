@@ -9,11 +9,13 @@
 ### Connect with me:
 [<img align="left" alt="AleksandObolonkov | VK" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="AleksandObolonkov | Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][tg]
-[<img align="left" alt="AleksandObolonkov | Email" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][mail]
+
+<a target="_blank" href="mailto:itbolonkov2019@gmail.com">
+  <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 [vk]: https://vk.com/obolonkovolegzandr
 [tg]: https://t.me/ITbolonkov
-[mail] mailto:itbolonkov2019@gmail.com
 
 <br />
 
