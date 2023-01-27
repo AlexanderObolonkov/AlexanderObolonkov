@@ -11,7 +11,7 @@
 [<img align="left" alt="AleksandObolonkov | Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][tg]
 
 <a target="_blank" href="mailto:itbolonkov2019@gmail.com">
-  <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Email" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 [vk]: https://vk.com/obolonkovolegzandr
