@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Aleksandr
 
 
-## I'm looking for a job as a backend developer.
-- 💪 I like to write code
-- 🥅 I am constantly learning new things
-- 👨‍🎓 Currently I am a student of Saint-Petersburg State University of Aerospace Instrumentation
+## Developing as a software engineer, looking for a job as a backend developer.
+- I like to write code
+- I am constantly learning new things
+- Currently I am a student of Saint-Petersburg State University of Aerospace Instrumentation
 
 ### Connect with me:
 [<img align="left" alt="AleksandObolonkov | VK" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
@@ -24,9 +24,9 @@
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" />
 <img align="left" alt="Django" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" />
 <img align="left" alt="FastAPI" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-original.svg" />
+<img align="left" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="NuxtJS" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nuxtjs/nuxtjs-original.svg" />
 <img align="left" alt="HTML" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
 
 <br />
