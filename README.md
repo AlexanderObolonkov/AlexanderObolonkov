@@ -1,17 +1,17 @@
-### Hi there 👋, I'm Aleksandr
-
-
-## Developing as a software engineer, looking for a job as a backend developer.
-- I like to write code
-- I am constantly learning new things
-- Currently I am a student of Saint-Petersburg State University of Aerospace Instrumentation
+<i> Who knows? not me
+  
+We never lost control
+  
+You're face to face
+  
+With the man who sold the world </i>
 
 ### Connect with me:
-[<img align="left" alt="AleksandObolonkov | VK" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img align="left" alt="AleksandObolonkov | Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][tg]
+[<img align="left" alt="AleksandObolonkov | VK" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="AleksandObolonkov | Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][tg]
 
 <a target="_blank" href="mailto:itbolonkov2019@gmail.com">
-  <img align="left" alt="Email" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 [vk]: https://vk.com/obolonkovolegzandr
@@ -21,13 +21,13 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" />
-<img align="left" alt="Django" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" />
-<img align="left" alt="FastAPI" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-original.svg" />
-<img align="left" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
+<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" />
+<img align="left" alt="Django" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" />
+<img align="left" alt="FastAPI" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-original.svg" />
+<img align="left" alt="PostgreSQL" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" />
+<img align="left" alt="SQLite" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original.svg" />
+<img align="left" alt="HTML" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
 
 <br />
 <br />
