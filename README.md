@@ -1,10 +1,4 @@
-<i> Who knows? not me
-  
-We never lost control
-  
-You're face to face
-  
-With the man who sold the world </i>
+<i> Developing </i>
 
 ### Connect with me:
 [<img align="left" alt="AleksandObolonkov | VK" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
