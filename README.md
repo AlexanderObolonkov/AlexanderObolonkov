@@ -33,7 +33,7 @@ With the man who sold the world </i>
 <br />
 <br />
 <details>
-  <summary>:zap: Statistics:</summary>
+  <summary>Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderObolonkov&langs_count=8&layout=compact" />
   <br />
   <br />
