@@ -9,9 +9,3 @@
 </a>
 
 [tg]: https://t.me/ITbolonkov
-
-<br />
-
-## 📊 Statistics:
-![](https://github-readme-streak-stats.herokuapp.com/?user=AlexanderObolonkov&theme=catppuccin-mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderObolonkov&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
